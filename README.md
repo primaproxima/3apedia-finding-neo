@@ -99,6 +99,9 @@ Movies and actors up to 4 hops away from Kevin Bacon.
 💡 Variable length paths.
 
 ### Excercise 18
+Shortest path from Kevin Bacon to Meg Ryan of any relationship.
+
+### Excercise 19
 
 Find the shortest path between actors who acted in the movies The Matrix and Top Gun.
 
